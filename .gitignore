@@ -1,0 +1,8 @@
+# Ignore Data files. They can be found in READ.ME
+data/
+
+# Ignore Env. Instead use environment.yml
+env/
+
+# Ignore my personal saves
+.ipynb_checkpoints/
