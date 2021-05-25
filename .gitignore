@@ -1,4 +1,4 @@
-# Ignore Data files. They can be found in READ.ME
+# Ignore Data files. They can be found in README
 data/
 
 # Ignore Env. Instead use environment.yml
